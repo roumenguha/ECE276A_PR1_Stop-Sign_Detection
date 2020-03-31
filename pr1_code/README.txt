@@ -21,8 +21,8 @@ stop_sign_detector.py
 		
 stop_sign_regression.py
 	- Script that takes the dataset formed from the dataset_formatter.py files and performs the logistic regression.
-	- Also logs the loss over iterations in a variable for easy use later.
-	- Use this to generate weights to be used during classification.
+	- Also logs the loss over iterations in a variable for easy use later (losses.npy).
+	- Use this to generate weights to be used during classification (omega.npy).
 	
 stop_sign_red_filter_imgs.py
 	- Script that converts all images in a directory to HSV, filters according to preset HSV value bounds, and exports the segmented images. The dataset_formatter.py files take the images that are output from this file to form the datasets that stop_sign_regression.py uses.
