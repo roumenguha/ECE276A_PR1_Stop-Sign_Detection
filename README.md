@@ -1,5 +1,5 @@
 # 2020_ECE276A_PR1
- Stop-sign detection algorithm, using logistic regression for classification, as opposed to purely traditional image processing techniques (used in the other repository: )
+ Stop-sign detection algorithm, using logistic regression for classification, as opposed to purely traditional image processing techniques (used in the other repository: https://github.com/roumenguha/ECE-533-Stop-Sign-Detection)
  
 ![](https://github.com/roumenguha/ECE276A_PR1_Stop-Sign_Detection/blob/master/pr1_code/loss%20vs%20iterations.jpg)
 
